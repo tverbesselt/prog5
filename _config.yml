@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+title: Prog 5 blog
+email: Tom.verbesselt@gmail.com
+description: "korte stukjes geschreven door cursisten prog 5"
 baseurl: "http://tverbesselt.github.io/prog5/"
 url: "http://tverbesselt.github.io/prog5/"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: tomverbesselt
+github_username:  tverbesselt
+facebook_username:  tom.verbesselt
 
 # Build settings
 markdown: kramdown
